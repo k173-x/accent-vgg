@@ -22,4 +22,4 @@ jobs:
     uses: script@v1
     with:
       script: python /inputs/repo/hello.py
-      image: tensorflow/tensorflow:2.9.1
+      image: tensorflow/tensorflow:2.9.1-gpu
