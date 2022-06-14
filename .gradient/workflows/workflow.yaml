@@ -1,4 +1,4 @@
-'on':
+on:
   github:
     branches:
       only: main
@@ -11,15 +11,25 @@ jobs:
         type: volume
     uses: git-checkout@v1
     with:
-      url: context.event.github.url
-  HelloWorld:
+      url: https://github.com/KiteVX/accent-vgg.git
+  StyleGan2:
     resources:
-      instance-type: C5
+      instance-type: P4000
     needs:
       - CloneRepo
     inputs:
       repo: CloneRepo.outputs.repo
+    outputs:
+      generatedFaces:
+        type: dataset
+        with:
+          ref: accentdb-core
     uses: script@v1
     with:
-      script: python /inputs/repo/hello.py
-      image: tensorflow/tensorflow:2.9.1-gpu
+      script: |-
+        pip install scipy==1.3.3
+        pip install requests==2.22.0
+        pip install Pillow==6.2.1
+        pip install librosa
+        pip install gdown
+      image: tensorflow/tensorflow:1.14.0-gpu-py3
