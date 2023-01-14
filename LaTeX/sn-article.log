@@ -1,0 +1,975 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2021.12.7)  18 OCT 2022 14:07
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./sn-article.tex
+(sn-article.tex
+LaTeX2e <2021-11-15>
+L3 programming layer <2021-11-22> (sn-jnl.cls
+Document Class: sn-jnl 2019/11/18 v0.1: An authoring template for Springer Jour
+nal articles
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/base\fleqn.clo
+File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
+\mathindent=\skip47
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen138
+)
+LaTeX Info: Redefining \rm on input line 138.
+LaTeX Info: Redefining \sf on input line 139.
+LaTeX Info: Redefining \tt on input line 140.
+LaTeX Info: Redefining \bf on input line 141.
+LaTeX Info: Redefining \it on input line 142.
+LaTeX Info: Redefining \sl on input line 143.
+LaTeX Info: Redefining \sc on input line 144.
+LaTeX Info: Redefining \cal on input line 145.
+LaTeX Info: Redefining \mit on input line 146.
+LaTeX Info: Redefining \textsubscript on input line 204.
+\columnhsize=\skip50
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.st
+y
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count191
+\Gm@cntv=\count192
+\c@Gm@tempcnt=\count193
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks17
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cf
+g))
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.st
+y
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.st
+y
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphic
+s.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.
+def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.st
+y
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip51
+\multirow@cntb=\count194
+\multirow@dima=\skip52
+\bigstrutjot=\dimen149
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip53
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen150
+)) (C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.st
+y
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen151
+) (C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count195
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count196
+\leftroot@=\count197
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count198
+\DOTSCASE@=\count199
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen152
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count266
+\c@MaxMatrixCols=\count267
+\dotsspace@=\muskip16
+\c@parentequation=\count268
+\dspbrk@lvl=\count269
+\tag@help=\toks19
+\row@=\count270
+\column@=\count271
+\maxfields@=\count272
+\andhelp@=\toks20
+\eqnshift@=\dimen153
+\alignsep@=\dimen154
+\tagshift@=\dimen155
+\tagwidth@=\dimen156
+\totwidth@=\dimen157
+\lineht@=\dimen158
+\@envbody=\toks21
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.st
+y
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
+\thm@preskip=\skip56
+\thm@postskip=\skip57
+\thm@headsep=\skip58
+\dth@everypar=\toks28
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\mathrsfs.st
+y
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.st
+y
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+ (C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count273
+\rotFPtop=\skip59
+\rotFPbot=\skip60
+\rot@float@box=\box52
+\rot@mess@toks=\toks29
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.st
+y
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count274
+\c@@ppsavesec=\count275
+\c@@ppsaveapp=\count276
+) (C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.c
+fg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/ncctools\manyfoot.st
+y
+Package: manyfoot 2019/08/03 v1.11 Many Footnote Levels Package (NCC)
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/ncctools\nccfoots.st
+y
+Package: nccfoots 2005/02/03 v1.2 NCC Footnotes Package (NCC)
+)
+\MFL@columnwidth=\dimen159
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.st
+y
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen160
+\lightrulewidth=\dimen161
+\cmidrulewidth=\dimen162
+\belowrulesep=\dimen163
+\belowbottomsep=\dimen164
+\aboverulesep=\dimen165
+\abovetopsep=\dimen166
+\cmidrulesep=\dimen167
+\cmidrulekern=\dimen168
+\defaultaddspace=\dimen169
+\@cmidla=\count277
+\@cmidlb=\count278
+\@aboverulesep=\dimen170
+\@belowrulesep=\dimen171
+\@thisruleclass=\count279
+\@lastruleclass=\count280
+\@thisrulewidth=\dimen172
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithm
+.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+ (C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count281
+\float@exts=\toks30
+\float@box=\box53
+\@float@everytoks=\toks31
+\@floatcapt=\box54
+)
+\@float@every@algorithm=\toks32
+\c@algorithm=\count282
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algorit
+hmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count283
+\c@ALG@rem=\count284
+\c@ALG@nested=\count285
+\ALG@tlm=\skip61
+\ALG@thistlm=\skip62
+\c@ALG@Lnr=\count286
+\c@ALG@blocknr=\count287
+\c@ALG@storecount=\count288
+\c@ALG@tmpcounter=\count289
+\ALG@tmplength=\skip63
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/algorithmicx\algpseu
+docode.sty
+Package: algpseudocode 
+
+Document Style - pseudocode environments for use with the `algorithmicx' style
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/program\program.sty
+\@gtempa=\dimen173
+\@gtempa=\dimen174
+\@gtempa=\dimen175
+\@gtempa=\dimen176
+\@gtempa=\dimen177
+\@gtempa=\dimen178
+\@gtempa=\dimen179
+\@gtempa=\dimen180
+\@gtempa=\dimen181
+\@gtempa=\dimen182
+\@gtempa=\dimen183
+\@gtempa=\dimen184
+\@gtempa=\dimen185
+\@gtempa=\dimen186
+\@gtempa=\dimen187
+\@gtempa=\dimen188
+\@gtempa=\dimen189
+\@gtempa=\dimen190
+\@gtempa=\dimen191
+\@gtempa=\dimen192
+\@gtempa=\dimen193
+\@gtempa=\dimen194
+\@gtempa=\dimen195
+\@gtempa=\dimen196
+\@gtempa=\dimen197
+\@gtempa=\dimen198
+\@gtempa=\dimen199
+\@gtempa=\dimen256
+\@gtempa=\dimen257
+\@gtempa=\dimen258
+\@gtempa=\dimen259
+\@gtempa=\dimen260
+\@gtempa=\dimen261
+\@gtempa=\dimen262
+\@gtempa=\dimen263
+\@gtempa=\dimen264
+\@gtempa=\dimen265
+\@gtempa=\dimen266
+\@gtempa=\dimen267
+\@gtempa=\dimen268
+\@gtempa=\dimen269
+\@gtempa=\dimen270
+\@gtempa=\dimen271
+\@gtempa=\dimen272
+\@gtempa=\dimen273
+\@gtempa=\dimen274
+\@gtempa=\dimen275
+\@gtempa=\dimen276
+\@gtempa=\dimen277
+\@gtempa=\dimen278
+\c@programline=\count290
+\old@nxttabmar=\count291
+\symeulerletters=\mathgroup7
+\powersetbox=\box55
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 841.
+
+LaTeX Font Info:    Calculating math sizes for size <16> on input line 841.
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <16> not available
+(Font)              size <17.28> substituted on input line 841.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 841.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 841
+.
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 841
+.
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 84
+1.
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 841.
+
+LaTeX Font Info:    Trying to load font information for U+eur on input line 841
+.
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ueur.fd
+File: ueur.fd 2013/01/14 v3.01 Euler Roman
+))
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.st
+y
+\lst@mode=\count292
+\lst@gtempboxa=\box56
+\lst@token=\toks33
+\lst@length=\count293
+\lst@currlwidth=\dimen279
+\lst@column=\count294
+\lst@pos=\count295
+\lst@lostspace=\dimen280
+\lst@width=\dimen281
+\lst@newlines=\count296
+\lst@lineno=\count297
+\lst@maxwidth=\dimen282
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count298
+\lst@skipnumbers=\count299
+\lst@framebox=\box57
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cf
+g
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+\artcatbox=\box58
+\aucount=\count300
+\corraucount=\count301
+\punctcount=\count302
+\emailcnt=\count303
+\c@affn=\count304
+\addcount=\count305
+\PacsCount=\count306
+\PacsTmpCnt=\count307
+\FMremarkdim=\dimen283
+\fmremarkbox=\box59
+\opshortpage=\dimen284
+\labelwidthi=\dimen285
+\labelwidthii=\dimen286
+\labelwidthiii=\dimen287
+\labelwidthiv=\dimen288
+\figwidth=\dimen289
+\figheight=\dimen290
+\sidecapwidth=\dimen291
+\wrapcapline=\dimen292
+\totalwrapline=\dimen293
+\wraptotline=\dimen294
+\figurebox=\box60
+\wrapfigcapbox=\box61
+\figcapbox=\box62
+\capbox=\box63
+\headwidthskip=\skip64
+\tabcapbox=\box64
+\temptbox=\box65
+\tempdime=\dimen295
+\tabhtdime=\dimen296
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.st
+y
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.st
+y
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexc
+mds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarer
+r.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkey
+s.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdef
+inekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescap
+e.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxma
+cro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.
+sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen297
+\Hy@linkcounter=\count308
+\Hy@pagecounter=\count309
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-la
+ngpatches.def
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
+nguages
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.st
+y
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.
+sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count310
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count311
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen298
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintc
+alc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count312
+\Field@Width=\dimen299
+\Fld@charsize=\dimen300
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.st
+y
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count313
+\c@Item=\count314
+\c@Hfootnote=\count315
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.s
+ty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count316
+\c@bookmark@seq@number=\count317
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerun
+filecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniq
+uecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip65
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 1486.
+Package hyperref Info: Option `breaklinks' set `true' on input line 1486.
+Package hyperref Info: Option `plainpages' set `false' on input line 1486.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 1486.
+Package hyperref Info: Option `bookmarksnumbered' set `false' on input line 148
+6.
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen301
+\WF@size=\dimen302
+\c@WF@wrappedlines=\count318
+\WF@box=\box66
+\WF@everypar=\toks34
+Package: wrapfig 2003/01/31  v 3.6
+)
+\wraplines=\count319
+\@authorfigbox=\box67
+\@authorfigboxdim=\skip66
+\biofigadjskip=\skip67
+)
+\c@theorem=\count320
+\c@example=\count321
+\c@remark=\count322
+\c@definition=\count323
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-
+pdftex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count324
+\l__pdf_internal_box=\box68
+) (sn-article.aux)
+\openout1 = `sn-article.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+\footinsA=\insert252
+\c@footnoteA=\count325
+LaTeX Font Info:    Redeclaring symbol font `AMSa' on input line 73.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `normal'
+(Font)                  U/msa/m/n --> U/msa/m/n on input line 73.
+LaTeX Font Info:    Overwriting symbol font `AMSa' in version `bold'
+(Font)                  U/msa/m/n --> U/msa/m/n on input line 73.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 17.07164pt
+* modes: twoside 
+* h-part:(L,W,R)=(34.14331pt, 338.58778pt, 51.21498pt)
+* v-part:(T,H,B)=(55.48286pt, 552.69478pt, 60.46211pt)
+* \paperwidth=441.01772pt
+* \paperheight=668.63976pt
+* \textwidth=338.58778pt
+* \textheight=552.69478pt
+* \oddsidemargin=-21.05504pt
+* \evensidemargin=-21.05501pt
+* \topmargin=-38.22067pt
+* \headheight=5.5pt
+* \headsep=15.93355pt
+* \topskip=10.0pt
+* \footskip=28.45274pt
+* \marginparwidth=34.1433pt
+* \marginparsep=14.22636pt
+* \columnsep=14.22636pt
+* \skip\footins=8.0pt plus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemargintrue
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf
+.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count326
+\scratchdimen=\dimen303
+\scratchbox=\box69
+\nofMPsegments=\count327
+\nofMParguments=\count328
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count329
+\MPscratchDim=\dimen304
+\MPnumerator=\count330
+\makeMPintoPDFobject=\count331
+\everyMPtoPDFconversion=\toks36
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopd
+f-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sy
+s.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@lstlisting=\count332
+Package hyperref Info: Link coloring ON on input line 73.
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.st
+y
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Aadhitya\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\get
+titlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count333
+)
+LaTeX Info: Redefining \ref on input line 73.
+LaTeX Info: Redefining \pageref on input line 73.
+LaTeX Info: Redefining \nameref on input line 73.
+ (sn-article.out) (sn-article.out)
+\@outlinefile=\write3
+\openout3 = `sn-article.out'.
+
+LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 124.
+
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <8.43146> not available
+(Font)              size <8> substituted on input line 124.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <8.43146> not available
+(Font)              size <8> substituted on input line 124.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <8.43146> not available
+(Font)              size <8> substituted on input line 124.
+
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <8.43146> not available
+(Font)              size <8> substituted on input line 124.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <8.43146> not available
+(Font)              size <8> substituted on input line 124.
+
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 12
+4.
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <5.52061> not available
+(Font)              size <6> substituted on input line 124.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/b/it' in size <5.52061> not available
+(Font)              size <6> substituted on input line 124.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <5.52061> not available
+(Font)              size <6> substituted on input line 124.
+
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <5.52061> not available
+(Font)              size <6> substituted on input line 124.
+
+LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 12
+4.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+{C:/Users/Aadhitya/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+
+[2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+
+[3]
+<ARCH.png, id=132, 587.19376pt x 505.89pt>
+File: ARCH.png Graphic file (type png)
+<use ARCH.png>
+Package pdftex.def Info: ARCH.png  used on input line 179.
+(pdftex.def)             Requested size: 293.59616pt x 252.94437pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+
+[4 <./ARCH.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+
+[5]
+<wave-aud.png, id=145, 619.31375pt x 238.39063pt>
+File: wave-aud.png Graphic file (type png)
+<use wave-aud.png>
+Package pdftex.def Info: wave-aud.png  used on input line 226.
+(pdftex.def)             Requested size: 309.65611pt x 119.195pt.
+<vgg16.jpg, id=148, 853.1875pt x 487.8225pt>
+File: vgg16.jpg Graphic file (type jpg)
+<use vgg16.jpg>
+Package pdftex.def Info: vgg16.jpg  used on input line 243.
+(pdftex.def)             Requested size: 255.95822pt x 146.34787pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+
+[6 <./wave-aud.png> <./vgg16.jpg>]
+<mfcc.png, id=159, 384.43625pt x 264.99pt>
+File: mfcc.png Graphic file (type png)
+<use mfcc.png>
+Package pdftex.def Info: mfcc.png  used on input line 274.
+(pdftex.def)             Requested size: 192.21765pt x 132.49467pt.
+<dd.png, id=161, 627.34375pt x 503.8825pt>
+File: dd.png Graphic file (type png)
+<use dd.png>
+Package pdftex.def Info: dd.png  used on input line 288.
+(pdftex.def)             Requested size: 188.20457pt x 151.16591pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+
+[7 <./mfcc.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+
+[8 <./dd.png>]
+<app-1.jpg, id=179, 1284.8pt x 721.69624pt>
+File: app-1.jpg Graphic file (type jpg)
+<use app-1.jpg>
+Package pdftex.def Info: app-1.jpg  used on input line 322.
+(pdftex.def)             Requested size: 321.19922pt x 180.42361pt.
+LaTeX Font Info:    Calculating math sizes for size <8.03> on input line 333.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <4.015> not available
+(Font)              size <5> substituted on input line 333.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <4.015> not available
+(Font)              size <5> substituted on input line 333.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <4.015> not available
+(Font)              size <5> substituted on input line 333.
+
+
+LaTeX Font Warning: Font shape `U/rsfs/m/n' in size <4.015> not available
+(Font)              size <5> substituted on input line 333.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.44444pt too high) has occurred while \output is active []
+
+
+[9 <./app-1.jpg>] (sn-sample-bib.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.33331pt too high) has occurred while \output is active []
+
+
+[10]
+! Misplaced alignment tab character &.
+l.15 ...ional Conference on Innovative Computing &
+                                                   Communications (ICICC).
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 15--16
+\OT1/cmr/m/n/10 English lan-guage accent clas-si-fi-ca-tion and con-ver-sion us
+ing machine
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.33331pt too high) has occurred while \output is active []
+
+
+[11])
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (1.33331pt too high) has occurred while \output is active []
+
+
+[12] (sn-article.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.28pt have occurred.
+
+Package rerunfilecheck Info: File `sn-article.out' has not changed.
+(rerunfilecheck)             Checksum: C235C0F621F998045AD250D01F62ADD8;2083.
+ ) 
+Here is how much of TeX's memory you used:
+ 14067 strings out of 478659
+ 216241 string characters out of 2844498
+ 522725 words of memory out of 3000000
+ 31867 multiletter control sequences out of 15000+600000
+ 427797 words of font info for 125 fonts, out of 8000000 for 9000
+ 1151 hyphenation exceptions out of 8191
+ 75i,8n,77p,1453b,436s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\Aadhitya\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\t
+crm1000.pk><C:/Users/Aadhitya/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cmextra/cmbsy8.pfb><C:/Users/Aadhitya/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Aadhitya/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/Aadhitya/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Aadhity
+a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Us
+ers/Aadhitya/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12
+.pfb><C:/Users/Aadhitya/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmr17.pfb><C:/Users/Aadhitya/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmr8.pfb><C:/Users/Aadhitya/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Aadhitya/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on sn-article.pdf (12 pages, 465427 bytes).
+PDF statistics:
+ 262 PDF objects out of 1000 (max. 8388607)
+ 61 named destinations out of 1000 (max. 500000)
+ 159 words of extra memory for PDF output out of 10000 (max. 10000000)
+
